@@ -4,7 +4,7 @@ module.exports = {
     defaultTitle: `DevIQ`,
     siteTitleShort: `DevIQ`,
     siteDescription: `DevIQ`,
-    siteUrl: `https://deviq.com/`,
+    siteUrl: `https://deviq-copy.netlify.app/`,
     siteAuthor: `DevIQ`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
@@ -17,7 +17,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/ardalis/DevIQ-gatsby`,
+        githubUrl: `https://github.com/supdev2012/DevIQ-gatsby`,
         baseDir: `/`,
       },
     },
